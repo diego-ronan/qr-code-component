@@ -83,7 +83,6 @@ h6 {
 }
 
 body {
-  margin: 2rem;
   display: grid;
   place-content: center;
   font-family: var(--font-base);
